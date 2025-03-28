@@ -60,6 +60,48 @@ The CNN model consists of:
 
 ![Image](https://github.com/user-attachments/assets/a5f29968-0603-46ee-b3d8-10a212160be1)
 
+# Visualization
+
+The Visualization Module (`visualization.py`) provides graphical representations of:
+
+- Model Accuracy and Loss 
+- Traffic Sign Class Predictions 
+- Confusion Matrix for Misclassifications 
+
+# Run the script to visualize model performance:
+python src/visualization.py
+
+---
+# Running the Project
+
+1. Clone the repository
+git clone https://github.com/yourusername/Traffic-Sign-Recognition.git
+cd Traffic-Sign-Recognition
+
+2. Train the Model 
+python src/train_model.py
+
+3. Evaluate the Model 
+python src/test_model.py
+
+4. Visualize Results
+python src/visualization.py
+
+---
+🤝 Contributing
+Feel free to contribute! Submit pull requests or report issues.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
